@@ -1,0 +1,12 @@
+#The vector Database (must ignore)
+vector_db/
+#Python internal files
+--pycache--/
+*.py[cod]
+venv/
+#IDE settings
+.idea/
+.vscode/
+#System files
+.DS_Store
+Thumbs.db

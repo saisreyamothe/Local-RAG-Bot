@@ -1,0 +1,15 @@
+[Global Tech Corp - Employee Handbook 2026]
+
+SECTION 1: TRAVEL & REIMBURSEMENT
+- Employees are entitled to a daily 'Per Diem' of $75 for domestic travel and $120 for international travel.
+- All flight bookings must be made through the 'SkyPortal' internal system. Bookings made on external sites will NOT be reimbursed.
+- Business Class is only permitted for flights exceeding 8 continuous hours.
+
+SECTION 2: REMOTE WORK & STIPENDS
+- New hires receive a one-time remote setup stipend of $500.
+- High-speed internet is reimbursed up to $60/month upon submission of an invoice.
+- Code for the office gym is '9988#'. Do not share this with external visitors.
+
+SECTION 3: KEY CONTACTS
+- For IT issues, email: support@globaltech.com
+- Lead Data Scientist for Project Phoenix: Dr. Elena Vance.
